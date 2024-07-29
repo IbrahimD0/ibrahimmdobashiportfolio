@@ -12,10 +12,10 @@ export function BackgroundBeamsDemo() {
           Contact Me
         </h1>
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
-          Looking to work together? Send me an email and let's get started.
+          Looking to work together? Send me an email and lets get started.
         </p>
         <button
-         
+          type="submit"
           className="mt-4 p-2.5 bg-teal-500 text-white rounded-lg w-full hover:cursor-pointer  hover:bg-teal-600"
         >
           Send Message
