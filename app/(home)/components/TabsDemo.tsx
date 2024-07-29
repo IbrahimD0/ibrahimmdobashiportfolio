@@ -21,7 +21,7 @@ export function TabsDemo() {
       value: "QuickPin",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-gray-600 to-gray-300">
-          <p>Fitlog</p>
+          <p>QuickPin</p>
           <ImageContainer2
             src="/QuickPinUI.png"
             href="https://github.com/IbrahimD0/QuickPin"
